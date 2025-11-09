@@ -1,6 +1,8 @@
 streamlit
 pandas==2.1.0
+numpy==1.25.0
 gspread==5.11.0
 plotly==5.18.0
+
 
 
